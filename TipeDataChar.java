@@ -8,6 +8,6 @@ public class TipeDataChar {
         char CharacterW = 'w';
 
         //System.out.println(CharacterA + CharacterN + CharacterD + CharacterR + CharacterE + CharacterW);
-        System.out.println(CharacterA + " aku");
+        System.out.println(CharacterA + " dia");
     }
 }
